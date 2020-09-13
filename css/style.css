@@ -454,15 +454,16 @@ footer .icon{
         transition: 0.5s;
     }
     .contacts{
-        margin-top: 350px;
+        margin-top: 200px;
         transition: 0.5s;
     }
     .hp_cst .row .brands img{
-        margin-top: 20px;
+        margin-top: 0px;
         width: 50px;
         height: 50px;
         filter: contrast(70%);
         padding: 0px;
         vertical-align: 0%;
     }
+    
  }
