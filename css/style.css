@@ -136,11 +136,11 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 .carousel-caption{
     bottom: 100px;
-    font-family: cursive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .carousel-caption h5{
     color: rgb(231, 231, 231);
-    font-size: 40px;
+    font-size: 30px;
     text-transform: capitalize;
     letter-spacing: 2px;
     margin-top: 25px;
@@ -456,5 +456,12 @@ footer .icon{
     .contacts{
         margin-top: 350px;
         transition: 0.5s;
+    }
+    .hp_cst .row .brands img{
+        width: 70px;
+        height: 70px;
+        filter: contrast(70%);
+        padding: 1px;
+        vertical-align: 0%;
     }
  }
